@@ -23,7 +23,7 @@ delete: http://localhost:8080/sensorapi/stockservice/delete/{stock value to dele
 Alerts Generated On Beating The Threshold Value: 
 
 1. Read all of the alerts generated from the database
-read:   http://localhost:8080/sensorapi/alertsservice/read
+read: http://localhost:8080/sensorapi/alertsservice/read
 
 2. Read alerts generated between two time periods
 readAlertByTimeRange: http://localhost:8080/sensorapi/alertsservice/readAlertByTimeRange/{starting timestamp}/{end timestamp}
