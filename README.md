@@ -1,6 +1,8 @@
 # StockSensorRestAPI
 This API saves changing stock values and create alerts on reaching lower/upper threshold values.
 
+Also, check StockSensorFlow.pdf for the complete flow and working of the API.
+
 Rest Resources:
 
 Incoming Stock Value :
